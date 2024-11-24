@@ -7,7 +7,7 @@
 Vrinda Store, an online retailer, has tasked us with analyzing their sales data to create an annual report. Our goal is to identify key drivers of sales, understand customer demographics, and highlight top-performing platforms.
 
 # DashBoard
-
+![Screenshot 2024-11-22 160225](https://github.com/user-attachments/assets/4265f860-3e97-4b66-834a-dcc3e850dca4)
 
 
 Key Findings and Recommendations
