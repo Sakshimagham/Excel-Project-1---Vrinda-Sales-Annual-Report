@@ -1,6 +1,6 @@
-# Excel-Project-1---Vrinda-Sales-Annual-Report
+# Excel Project-1: Vrinda Sales Annual Report
 
-## Vrinda_Store_DashBoard_Excel
+## Vrinda Store DashBoard Excel
 
 # Project Overview
 
@@ -30,3 +30,4 @@ Insights can be shared weekly, monthly, quarterly, or annually, based on client 
 Repository Contents
 
 - Vrinda_Store_Dashboard_Excel: Annual sales report dashboard in Excel format.
+- Data Used : https://bit.ly/3X381ok
